@@ -28,14 +28,14 @@ The dataset used in this analysis is sourced from [insert data source], containi
  - SMOTE-ENN is designed to address class imbalance in binary classification problems.
 
 ### - For imbalanced data:
-  - Logistic Regression: Accuracy - 85%, Precision - 80%, Recall - 75%
-  - Decision Tree: Accuracy - 88%, Precision - 82%, Recall - 78%
-  - Random Forest: Accuracy - 88%, Precision - 82%, Recall - 78%
+  - Logistic Regression: Accuracy - 80%, Precision - 83%, Recall - 92% 
+  - Decision Tree: Accuracy - 79%, Precision - 84%, Recall - 89%
+  - Random Forest: Accuracy - 78%, Precision - 80%, Recall - 94%
 
 ### - For balanced data:
-  - Logistic Regression: Accuracy - 85%, Precision - 80%, Recall - 75%
-  - Decision Tree: Accuracy - 88%, Precision - 82%, Recall - 78%
-  - Random Forest: Accuracy - 88%, Precision - 82%, Recall - 78%
+  - Logistic Regression: Accuracy - 93%, Precision - 80%, Recall - 75%
+  - Decision Tree: Accuracy - 93%, Precision - 94%, Recall - 92%
+  - Random Forest: Accuracy - 93%, Precision - 95%, Recall - 92%
 
 ## - Business Insights:
   - Targeting high-risk customer segments for retention efforts could effectively reduce churn rates.
