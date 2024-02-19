@@ -17,7 +17,15 @@ The dataset used in this analysis is sourced from [insert data source], containi
 - Key Findings:
   - Demographic factors (e.g., age, gender) have a significant impact on churn.
   - Service usage patterns (e.g., monthly charges, contract type) are strong predictors of churn.
+
 ## - Model Performance:
+
+## Technique used for balancing the data
+ - SMOTE-ENN (Synthetic Minority Over-sampling Technique with Edited Nearest Neighbors) is
+   a combination of two techniques: 
+     - SMOTE (for over-sampling the minority class) and 
+     - ENN (Edited Nearest Neighbors, for under-sampling both classes). 
+ - SMOTE-ENN is designed to address class imbalance in binary classification problems.
 
 ### - For imbalanced data:
   - Logistic Regression: Accuracy - 85%, Precision - 80%, Recall - 75%
