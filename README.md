@@ -23,12 +23,14 @@ This data contains 7043 rows and 21 columns
      - D  =	depreciation (Amount of asset value lost over time.)
      - A  =	amortization (Decreasing an assets cost over a period of time.)
 
-## Hence, moving ahead to call SMOTEENN (UpSampling + ENN)
+## Technique used for balancing the data
  - SMOTE-ENN (Synthetic Minority Over-sampling Technique with Edited Nearest Neighbors) is
    a combination of two techniques: 
      - SMOTE (for over-sampling the minority class) and 
      - ENN (Edited Nearest Neighbors, for under-sampling both classes). 
  - SMOTE-ENN is designed to address class imbalance in binary classification problems.
+
+
 
 
 
