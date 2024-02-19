@@ -4,7 +4,19 @@
 This project aims to analyze customer churn in a telecommunications company and develop predictive models to identify at-risk customers. By understanding the factors influencing churn and improving retention strategies, the goal is to reduce churn rates and enhance customer satisfaction.
 
 ## Data
-The dataset used in this analysis is sourced from [insert data source], containing information about customer demographics, service usage, and churn status. Data preprocessing steps are applied to clean and prepare the dataset for analysis.
+The dataset used in this analysis is sourced from (https://www.kaggle.com/datasets/blastchar/telco-customer-churn?select=WA_Fn-UseC_-Telco-Customer-Churn.csv) containing 21 columns and 7043 rows.
+
+## The columns are:
+
+
+
+## Objectives
+1. To identify key factors driving customer churn.
+2. To explore data to understand churn patterns.
+3. To select relevant features for churn prediction.
+4. To develop and compare machine learning models.
+5. To deploy the model for real-time churn prediction.
+6. To provide recommendations for improving retention strategies.
 
 ## Analysis Process
 1. **Exploratory Data Analysis (EDA)**: Explored the dataset to understand churn patterns and identify key factors influencing customer churn.
