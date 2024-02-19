@@ -7,7 +7,7 @@ This project aims to analyze customer churn in a telecommunications company and 
 The dataset used in this analysis is sourced from (https://www.kaggle.com/datasets/blastchar/telco-customer-churn?select=WA_Fn-UseC_-Telco-Customer-Churn.csv) containing 21 columns and 7043 rows.
 
 ## The columns are:
-
+['customerID', 'gender', 'SeniorCitizen', 'Partner', 'Dependents', 'tenure', 'PhoneService', "MultipleLines', 'InternetService'. 'Online Security', 'OnlineBackup', 'Device Protection', TechSupport', 'Streaming TV". 'StreamingMovies', 'Contract', 'PaperlessBilling', 'PaymentMethod", "Monthly Charges'. "Total Charges', 'Churn']
 
 
 ## Objectives
