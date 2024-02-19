@@ -1,11 +1,11 @@
 # Teleco_customer_churn_prediction
 
+# Objective:
+    The objective of this project is to analyze historical data of telecom customers and develop a predictive model to identify factors contributing to customer churn and predict potential churners. By understanding the key drivers of churn, the goal is to provide actionable insights to reduce churn rate and improve customer retention strategies.
+    
 ## Dataset Info:
     DataSet containing Telco customer data and showing customers left last month
 This data contains 7043 rows and 21 columns
-
-# Objective:
-    The objective of this project is to analyze historical data of telecom customers and develop a predictive model to identify factors contributing to customer churn and predict potential churners. By understanding the key drivers of churn, the goal is to provide actionable insights to reduce churn rate and improve customer retention strategies.
 
 ##### What is churn :
  - Churn is a key driver of EBITDA margin and an industry-wide challenge.
@@ -22,6 +22,15 @@ This data contains 7043 rows and 21 columns
      - T  =	taxes
      - D  =	depreciation (Amount of asset value lost over time.)
      - A  =	amortization (Decreasing an assets cost over a period of time.)
+
+## Hence, moving ahead to call SMOTEENN (UpSampling + ENN)
+ - SMOTE-ENN (Synthetic Minority Over-sampling Technique with Edited Nearest Neighbors) is
+   a combination of two techniques: 
+     - SMOTE (for over-sampling the minority class) and 
+     - ENN (Edited Nearest Neighbors, for under-sampling both classes). 
+ - SMOTE-ENN is designed to address class imbalance in binary classification problems.
+
+
 
 
 
