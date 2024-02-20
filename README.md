@@ -26,7 +26,7 @@ The dataset used in this analysis is sourced from (https://www.kaggle.com/datase
 5. **Interpretation**: Interpreted the trained models to understand feature importance and derive actionable insights for the telco company.
 6. 
 ## Results
-- Key Findings:
+- Key Findings from EDA:
   - Demographic factors (e.g., age, gender) have a significant impact on churn.
   - Service usage patterns (e.g., monthly charges, contract type) are strong predictors of churn.
 
